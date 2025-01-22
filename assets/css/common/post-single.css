@@ -34,6 +34,8 @@
 
 .post-content {
     color: var(--content);
+    font-family: 'Times New Roman', 'SongTi', serif;
+    font-size: 16px;
 }
 
 .post-content h3,
@@ -196,6 +198,7 @@
     line-height: 1.5;
     background: var(--code-bg);
     border-radius: 2px;
+    font-family: 'Consolas', monospace;
 }
 
 .post-content pre code {
